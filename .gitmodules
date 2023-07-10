@@ -1,3 +1,6 @@
 [submodule "meu-vai"]
 	path = meu-vai
 	url = https://github.com/lazumbra/agora-vai.git
+[submodule "agora-sim"]
+	path = agora-sim
+	url = https://github.com/lazumbra/agora-vai.git
